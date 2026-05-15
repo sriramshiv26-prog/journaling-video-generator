@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+omegaconf
+einops
+xformers
+imageio
+imageio-ffmpeg
+opencv-python
+pillow
+requests
